@@ -1,5 +1,5 @@
 {
-    "appStore_ver":"1.1.6",
+    "appStore_ver":"1.0.0",
     "appStore_id":"6444697263",
     "app_id":"265",
     "app_ver":"1.2.0",
@@ -14,5 +14,5 @@
     "vp":"0",
     "baseURL" :"http://www.merriciya.tech",
     "isUpdateShow": false,
-    "isUnlock" : false
+    "isUnlock" : true
 }
