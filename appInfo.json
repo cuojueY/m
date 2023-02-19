@@ -14,5 +14,5 @@
     "vp":"0",
     "baseURL" :"http://www.cubohue.top",
     "isUpdateShow": false,
-    "isUnlock" : true
+    "isUnlock" : false
 }
