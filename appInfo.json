@@ -13,7 +13,7 @@
     "version":"4.0",
     "vp":"0",
     "baseURL" :"http://www.cubohue.top",
-    "isShowAD":false,
+    "isShowAD":true,
     "isUpdateShow": false,
     "isUnlock" : false
 }
