@@ -1,5 +1,5 @@
 {
-    "appStore_ver":"1.0.8",
+    "appStore_ver":"1.0.9",
     "appStore_id":"6444859902",
     "app_id":"265",
     "app_ver":"1.2.0",
@@ -15,5 +15,5 @@
     "baseURL" :"http://www.cubohue.top",
     "isShowAD":true,
     "isUpdateShow": false,
-    "isUnlock" : false
+    "isUnlock" : true
 }
