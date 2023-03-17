@@ -15,5 +15,5 @@
     "baseURL" :"http://www.cubohue.top",
     "isShowAD":true,
     "isUpdateShow": false,
-    "isUnlock" : true
+    "isUnlock" : false
 }
